@@ -21,7 +21,7 @@ def banner(__version__):
 
    v%s developed by %s
    %s
-   """ % (__version__, "@_bka_", "SSE | Secure Systems Engineering GmbH"))
+   """ % (__version__, "@_bka_", "Lucidra Security GmbH"))
 
 def enumerate_user(enum, email, accounttype, presence, outfile):
    enum.check_user(email.strip(), accounttype, presence=presence, outfile=outfile)
