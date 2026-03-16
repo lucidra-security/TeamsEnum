@@ -14,7 +14,7 @@ It supports multiple authentication mechanisms and can be used with personal or 
 Installation of TeamsEnum is straight forward:
 
 ```bash
-git clone https://github.com/sse-secure-systems/TeamsEnum.git
+git clone https://github.com/lucidra-security/TeamsEnum.git
 cd TeamsEnum`
 pip3 install -r requirements.txt
 ```
@@ -42,8 +42,8 @@ $ python3 teamsenum.py -a password -u <username> -f list.txt
    | |  __/ (_| | | | | | \__ \ |____| | | | |_| | | | | | |
    |_|\___|\__,_|_| |_| |_|___/______|_| |_|\__,_|_| |_| |_|
 
-   v1.0.0 developed by @_bka_
-   SSE | Secure Systems Engineering
+   v1.0.3 developed by @_bka_
+   Lucidra Security
    
 [~] Checking account type
 [~] Account type is: corporate
@@ -76,8 +76,8 @@ $ python3 teamsenum.py -a password -u <username> -f list.txt
    | |  __/ (_| | | | | | \__ \ |____| | | | |_| | | | | | |
    |_|\___|\__,_|_| |_| |_|___/______|_| |_|\__,_|_| |_| |_|
 
-   v1.0.0 developed by @_bka_
-   SSE | Secure Systems Engineering
+   v1.0.3 developed by @_bka_
+   Lucidra Security
    
 [~] Checking account type
 [~] Account type is: corporate
